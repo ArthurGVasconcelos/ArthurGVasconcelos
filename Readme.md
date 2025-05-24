@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Arthur Vasconcelos
 
-**`Desenvolvedora Java`**
+**`Desenvolvedor Java`**
 
 Sou Arthur Vasconcelos, alguém que sempre acreditou que foco e vontade vencem a falta de sorte. Ex-militar, estudante de Engenharia de Software e apaixonado por tudo que tem motor, fumaça e adrenalina — de Opala carburado até simuladores de corrida com telemetria e setup afinado.
 
